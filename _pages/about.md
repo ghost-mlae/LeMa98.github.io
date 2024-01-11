@@ -33,11 +33,11 @@ Contrastive Learning for Urban Traffic Forecasting." in the 48th IEEE Internatio
 Generative Adverserial Networks for Accurate Citywide Traffic Flow Prediction," in the 52nd IEEE International
 Conference on Systems, Man, and Cybernetics (SMC 2022), pp. 2557-2562. [Oral]
 4. **Lincan Li**, Jichao Bi, Kaixiang Yang, and Fengji Luo, "Spatial-Temporal Semantic Generative Adversarial Networks for Flexible Multi-step Urban Flow Prediction," in 31st International Conference on Artificial Neural Networks (ICANN 2022). Springer-Verlag, pp.763–775.
-5. **Lincan Li**, Tong Jia. "Optical Coherence Tomography Vulnerable Plaque Segmentation based on Deep Residual UNet." Reviews in Cardiovascular Medicine 20.3 (2019): 171-177. (Journal Article, IF: 4.43, JCR Quartile: Q2)
+5. **Lincan Li**, Tong Jia. "Optical Coherence Tomography Vulnerable Plaque Segmentation based on Deep Residual U-Net." Reviews in Cardiovascular Medicine 20.3 (2019): 171-177. (Journal Article, IF: 4.43, JCR Quartile: Q2)
 
 Academic Awards & Competitions
 ------
-1. **Lincan Li**. Master Thesis of Zhejiang University, "Research on Integrated Urban Traffic Forecasting and Spatiotemporal Data Imputation based on GANs and Graph Representation". Awarded as Excellent Master Dissertation.
+1. **Lincan Li**. Master Thesis of Zhejiang University, "Research on Integrated Urban Traffic Forecasting and Spatiotemporal Data Imputation based on GANs and Graph Representation". Awarded as Excellent Master Dissertation.
 2. National Scholarship for Postgraduate. Awarded by Ministry of Education in China, Awarded in December, 2022.
 3. National Scholarship for Undergraduare Student. Awarded by Ministry of Education in China, Awarded in December, 2019.
 4. National Scholarship for Undergraduare Student. Awarded by Ministry of Education in China, Awarded in December, 2018.
