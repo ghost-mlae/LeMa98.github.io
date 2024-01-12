@@ -16,7 +16,7 @@ Before that, I obtained my Master Degree from Zhejiang University, School of CSE
 
 You can find my google scholar here: [LincanLi](https://scholar.google.com/citations?user=2rsW8vgAAAAJ&hl=zh-CN)
 
-**Email**: lincan.li@unsw.edu.au; lilincan@zju.edu.cn\\
+**Email**: lincan.li@unsw.edu.au; lilincan@zju.edu.cn\
 
 **Education**: University of New South Wales (PhD at CSE)|Zhejiang University (MPhil at CSE)|Northesatern University (Bachelor at Automation)
 
