@@ -16,8 +16,7 @@ Before that, I obtained my Master Degree from Zhejiang University, School of CSE
 
 You can find my google scholar here: [LincanLi](https://scholar.google.com/citations?user=2rsW8vgAAAAJ&hl=zh-CN)
 
-**Email**: lincan.li@unsw.edu.au; lilincan@zju.edu.cn    
-
+**Email**: lincan.li@unsw.edu.au; lilincan@zju.edu.cn  <br>
 **Education**: University of New South Wales (PhD at CSE)|Zhejiang University (MPhil at CSE)|Northesatern University (Bachelor at Automation)
 
 Before joining UNSW as a PhD student, I spend half-year's time working at the frontier of autonomous driving industry in Shenzhen. During my tenure as a Senior R&D Algorithm Engineer in BYD Autonomous Driving Technology R&D Centre, Dept. of IDA, Shenzhen China, I was lucky to be lead by Jie Liao(廖杰), the former Autonomous Driving R&D Chief Director from Horizon Robotics, and worked closely with Dr. Wei Dong. 
