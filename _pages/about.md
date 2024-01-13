@@ -42,21 +42,30 @@ Academic Awards & Competitions
 2. National Scholarship for Postgraduate. Awarded by Ministry of Education in China, Awarded in December, 2022.
 3. National Scholarship for Undergraduare Student. Awarded by Ministry of Education in China, Awarded in December, 2019.
 4. National Scholarship for Undergraduare Student. Awarded by Ministry of Education in China, Awarded in December, 2018.
-5. Meritorious Winner (First Prize) of the International Interdisciplinary Contest In Mathematical Modeling (ICM). Awarded by: The American Association for Mathematics and Its Application, Awarded in April, 2018.
-6. Outstanding Master Graduates of Zhejiang Province, Awarded in 2023.
-7. Outstanding University Graduates of Liaoning Province, Awarded in 2020.
-8. Northeastern University Presidential Scholarship, Awarded in 2019.
+5. Meritorious Winner (First Prize) of the International Interdisciplinary Contest In Mathematical Modeling (ICM). Awarded in April, 2018.
+6. Second Prize of the National College Contest in Big Data Analysis and Mining, Awarded by: Chinese Institute of Electronics, Awarded in December, 2020.
+7. Outstanding Master Graduates of Zhejiang Province, Awarded in 2023.
+8. Outstanding University Graduates of Liaoning Province, Awarded in 2020.
+9. Northeastern University Presidential Scholarship, Awarded in 2019.
 
 Academic Services
 ------
 - I'm a long-term reviewer of AAAI/IJCAI/ACM MM/NeurlPS and other top CCF-A/CORE A* conferences in the
 field of artificial intelligence and deep learning. I'm a student member of ACM and IEEE Society.
+- Invited reviewer for IEEE Transactions on Intelligent Vehicles.
 - Invited reviewer for Information Sciences.
-- Invited reviewer for IEEE Transactions on Intelligent Vehicles. 
+- Intivted reviewer for IEEE Transactions on Industrial Informatics.
 
-My Collaborators
+Academic Internship/Working Experiences at Top Institutions
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+| **Research Intern at Australian Artificial Intelligence Institute**  (Feb 2022 - Mar 2023)\|Sydney, Australia |
+| ------------------------------------------------------------ |
+| The research work 2,3 appeared in the "*Selected Publications*" were done when I was a research intern at the Australian Artificial Intelligence Institute, where I worked closely with Prof. Fengji Luo from The University of Sydney. We mainly focus on employing Self-Supervised Methods (especially Contrastive Learning) and Graph Neural Network Variants for Intelligent Urban Traffic Management and Smart City with V2X Technology. |
+| **Senior Research Engineer at BYD Autonomous Driving Research Group (Apr 2023- Dec 2023)\| Shenzhen, China** |
+| BYD is a high-tech Fortune 500 company and the largest automobile company in China. BYD focuses on world-leading Electric Vehicles, AI-powered EV&Smart-City technologies. From April 2023 to present, I've been working as a Senior Research Develop Engineer at BYD Autonomous Driving Group in Shenzhen China, where my manager is the former Chief Tech Officer from Horizon Robotics, responsible of conducting scientific research and project development on L3+ Level Autonomous Driving perception and prediction module. I've participated in the DL-based Navigation-on-Autopilot (Fast NoA, so called trajectory/motion forecasting in academic) algorithm project from 1st May to 1st Aug. From Aug to now, I'm working on the company's Big Data-Driven Autonomous Driving R&D project (aiming to align Tesla's Big Data-Driven Autonomous Driving Pipeline). |
+| **International Exchange Student at University of Wisconsin-Madison (Jul 2018 - Oct 2018) \|U.S.A** |
+| I was selected as an International Exchange Student at UWM, studying in School of Computer, Data & Information Science. The study and practice mainly focused on Data Science Applications, Statistics, and Python for Deep Learning. In the summer of 2018 I was doing research about deep learning for Medical Big Data with Prof. Sharon Li from UWM. |
+
 
 More about Me
 ------
