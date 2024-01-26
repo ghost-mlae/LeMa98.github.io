@@ -24,6 +24,12 @@ Before joining UNSW as a PhD student, I spend half-year's time working at the fr
 Aside from that, I'm also a blogger in Bilibili.com, where I tend to record my daily life in University as a research student, and share some experience about scientific research.
 
 
+News👍
+======
+- (Jan/24/2024) Our New survey paper:[Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies](https://arxiv.org/abs/2401.12888) is available on ArXiV. It's now a heat paper on several academic platforms😄
+- (Jan/23/2024) Being invited as reviewer again for ACM Multimedia Conference 2024, and IEEE Transactions on Industrial Informatics.
+
+
 Research Publications
 ======
 1. **Lincan Li**, Jichao Bi, Kaixiang Yang, and Fengji Luo. "Di-GraphGAN: An Enhanced Adversarial Learning
