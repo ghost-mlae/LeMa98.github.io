@@ -64,12 +64,28 @@ field of artificial intelligence and deep learning. I'm a student member of ACM 
 
 Academic Internship/Working Experiences at Top Institutions
 ------
-|          Internship/Working Experience                         | Timeline          |  Region        |
-|----------------------------------------------------------------|-------------------|----------------|
-| Research Intern at Australian Artificial Intelligence Institute|Feb 2022 - Mar 2023|Sydney,Australia|
-| Senior Research Algorithm Engineer at BYD Autonomous Driving Research Group|May 2023- Dec 2023|Shenzhen,China|
-|International Exchange Student at University of Wisconsin-Madison|Jul 2018 - Oct 2018|U.S.A|
-
+<table>
+  <tr>
+    <th>Internship/Working Experience</th>
+    <th>Timeline</th>
+    <th>Region</th>
+  </tr>
+  <tr>
+    <td>Research Intern at Australian Artificial Intelligence Institute</td>
+    <td>Feb 2022 - Mar 2023</td>
+    <td>Sydney, Australia</td>
+  </tr>
+  <tr>
+    <td>Senior Research Algorithm Engineer at BYD Autonomous Driving Research Group</td>
+    <td>May 2023 - Dec 2023</td>
+    <td>Shenzhen, China</td>
+  </tr>
+  <tr>
+    <td>International Exchange Student at University of Wisconsin-Madison</td>
+    <td>Jul 2018 - Oct 2018</td>
+    <td>U.S.A</td>
+  </tr>
+</table>
 
 More about Me
 ------
