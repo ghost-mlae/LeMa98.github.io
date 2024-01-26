@@ -64,6 +64,8 @@ field of artificial intelligence and deep learning. I'm a student member of ACM 
 
 Academic Internship/Working Experiences at Top Institutions
 ------
+<html>
+<body>
 <table>
   <tr>
     <th>Internship/Working Experience</th>
@@ -86,6 +88,8 @@ Academic Internship/Working Experiences at Top Institutions
     <td>U.S.A</td>
   </tr>
 </table>
+<body>
+</html>
 
 More about Me
 ------
