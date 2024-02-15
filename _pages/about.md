@@ -64,8 +64,6 @@ field of artificial intelligence and deep learning. I'm a student member of ACM 
 
 Academic Internship/Working Experiences at Top Institutions
 ------
-<html>
-<body>
 <table>
   <tr>
     <th>Internship/Working Experience</th>
@@ -94,5 +92,3 @@ More about Me
 Like other excellent peers in AI research field, I work very hard. I enjoy the feeling of simply focusing on what I'm doing in hand, and I value my time everyday. Aside from research, I enjoy various kinds of sports, including long-distance running, HITT, dancing, Yoga, and cycling. I've been a daily trainer since I was 18.
 I enjoy music (especially Hiphop,R&B) and designing arts (especially painting exhibition, fashion design, and architecture). 
 
-<body>
-</html>
