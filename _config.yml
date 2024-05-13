@@ -9,7 +9,7 @@
 locale                   : "Sydney-Australia"
 title                    : "Lincan Li/Personal Website"
 title_separator          : "-"
-name                     : &name "Lincan Li (李林灿)"
+name                     : &name "Lincan Li"
 description              : &description "personal description"
 url                      : https://lincanli98.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lincan Li"
+  name             : "Lincan Li (李林灿)"
   avatar           : "profile.png"
   bio              : "Simplicity and Focus."
   location         : "Sydney, Australia"
