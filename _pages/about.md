@@ -10,7 +10,7 @@ redirect_from:
 
 Short Bio
 ======
-Hi everyone. I'm currently a PhD student at [Data & Knowledge Research Group](https://unswdb.github.io/index.html), School of [CSE](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering), The University of New South Wales (UNSW) [UNSW](), starting at January 2024. I was awarded the highly competitive UIPA PhD scholarship (Presidential Scholarship) from UNSW. I feel very much fortunate to be advised by Prof. [Wenjie Zhang](https://scholar.google.com.au/citations?user=yHTJo1kAAAAJ&hl=en) and [Hanchen Wang](https://hanchen-wang.com/). My research interests include Spatial-Temporal Data Mining, Big Data Management, Data-Driven Autonomous Driving, Graph Neural Networks,V2X Technology, and Generative AI Models. In general, I'm always highly interested in the machine-learning foundation theory, application of heterogeneous data mining, and AI+X technologies. 
+Hi everyone. I'm currently a PhD student at [Data & Knowledge Research Group](https://unswdb.github.io/index.html), School of [CSE](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering), The University of New South Wales (UNSW) [UNSW](), starting at January 2024. I was awarded the highly competitive UIPA PhD scholarship (Presidential Scholarship) from UNSW. I feel very much fortunate to be advised by Prof. [Wenjie Zhang](https://scholar.google.com.au/citations?user=yHTJo1kAAAAJ&hl=en). My research interests include Spatial-Temporal Data Mining, Graph Neural Networks, AI+X, LLMs & Foundation Models. In general, I'm always highly interested in broad machine-learning fields, application of heterogeneous data mining, and AI+X technologies. 
 
 Before that, I obtained my Master Degree from Zhejiang University, School of CSE in June 2023. My Master research was carried out in the [State Key Lab. of Industrial Control Technology](http://nesc.zju.edu.cn/#/member/faculty) lead by Academician Youxian Sun. I was lucky to be supervised by Prof. [Shibo He](https://scholar.google.com/citations?user=5GOcb4gAAAAJ&hl=zh-CN) and co-supervised by Prof. [Jiming Chen](https://scholar.google.com/citations?user=zK9tvo8AAAAJ&hl=zh-CN) (Changjiang Scholars Chair Professor, IEEE Fellow, Vice President of Zhejiang University of Technology). 
 
@@ -19,15 +19,18 @@ You can find my google scholar here: [LincanLi](https://scholar.google.com/citat
 **Email**: lincan.li@unsw.edu.au; lilincan@zju.edu.cn  <br>
 **Education**: University of New South Wales (PhD at CSE)|Zhejiang University (MPhil at CSE)|Northesatern University (Bachelor at Automation)
 
-Before joining UNSW as a PhD student, I spend half-year's time working at the frontier of autonomous driving industry in Shenzhen. During my tenure as a Senior R&D Algorithm Engineer in BYD Autonomous Driving Technology R&D Centre, Dept. of IDA, Shenzhen China, I was lucky to be lead by Jie Liao(廖杰), the former Autonomous Driving R&D Chief Director from Horizon Robotics, and worked closely with Dr. Wei Dong. 
-
 Aside from that, I'm also a blogger in Bilibili.com, where I tend to record my daily life in University as a research student, and share some experience about scientific research.
 
 
-News👍
+2024 Latest👍
 ======
-- (Jan/24/2024) Our New survey paper:[Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies](https://arxiv.org/abs/2401.12888) is available on ArXiV. It's now a heat paper on several academic platforms😄
-- (Jan/23/2024) Being invited as reviewer again for ACM Multimedia Conference 2024, and IEEE Transactions on Industrial Informatics.
+- (May/13/2024) Our new work leveraging Mamba, the latest deep learning-based selective state space model for Spatial-Temporal Graph Learning is now available.
+  \textbf{Paper}: [STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model](https://github.com/LincanLi98/STG-Mamba/blob/main/STG_Mamba_paper_ArXiv_V3_14May2024.pdf)
+  
+  \textbf{Code}: ⛷️ [https://github.com/LincanLi98/STG-Mamba/](https://github.com/LincanLi98/STG-Mamba/)
+  
+- (Jan/24/2024) Our New survey paper:[Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies](https://arxiv.org/abs/2401.12888) is available on ArXiV. It's now a heat paper on several academic platforms.
+
 
 
 Research Publications
@@ -58,8 +61,8 @@ Academic Services
 ------
 - I'm a long-term reviewer of AAAI/IJCAI/ACM MM/NeurlPS and other top CCF-A/CORE A* conferences in the
 field of artificial intelligence and deep learning. I'm a student member of ACM and IEEE Society.
+- Invited reviewer for IEEE Transactions on Knowledge and Data Engineering.
 - Invited reviewer for IEEE Transactions on Intelligent Vehicles.
-- Invited reviewer for Information Sciences.
 - Intivted reviewer for IEEE Transactions on Industrial Informatics.
 
 Academic Internship/Working Experiences at Top Institutions
@@ -71,13 +74,13 @@ Academic Internship/Working Experiences at Top Institutions
     <th>Region</th>
   </tr>
   <tr>
-    <td>Research Intern at Australian Artificial Intelligence Institute</td>
+    <td>Research Intern at University of Sydney (Mphil collaboration)</td>
     <td>Feb 2022 - Mar 2023</td>
     <td>Sydney, Australia</td>
   </tr>
   <tr>
     <td>Senior Research Algorithm Engineer at BYD Autonomous Driving Research Group</td>
-    <td>May 2023 - Dec 2023</td>
+    <td>June 2023 - Dec 2023</td>
     <td>Shenzhen, China</td>
   </tr>
   <tr>
@@ -87,8 +90,9 @@ Academic Internship/Working Experiences at Top Institutions
   </tr>
 </table>
 
-More about Me
+More. 
 ------
-Like other excellent peers in AI research field, I work very hard. I enjoy the feeling of simply focusing on what I'm doing in hand, and I value my time everyday. Aside from research, I enjoy various kinds of sports, including long-distance running, HITT, dancing, Yoga, and cycling. I've been a daily trainer since I was 18.
-I enjoy music (especially Hiphop,R&B) and designing arts (especially painting exhibition, fashion design, and architecture). 
-
+- I'm open for any kinds of research collaborations. Please always feel free to contact me. 
+- I work hard, value time.
+- I enjoy various kinds of sports. I have successfully completed two marathon races.
+- I embracing challenges in my life and work with strong belief. 
