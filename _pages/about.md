@@ -25,9 +25,10 @@ Aside from that, I'm also a blogger in Bilibili.com, where I tend to record my d
 2024 Latest👍
 ======
 - (May/13/2024) Our new work leveraging Mamba, the latest deep learning-based selective state space model for Spatial-Temporal Graph Learning is now available.
-  \textbf{Paper}: [STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model](https://github.com/LincanLi98/STG-Mamba/blob/main/STG_Mamba_paper_ArXiv_V3_14May2024.pdf)
+- 
+  \bold{Paper}: [STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model](https://github.com/LincanLi98/STG-Mamba/blob/main/STG_Mamba_paper_ArXiv_V3_14May2024.pdf)
   
-  \textbf{Code}: ⛷️ [https://github.com/LincanLi98/STG-Mamba/](https://github.com/LincanLi98/STG-Mamba/)
+  \bold{Code}: ⛷️ [https://github.com/LincanLi98/STG-Mamba/](https://github.com/LincanLi98/STG-Mamba/)
   
 - (Jan/24/2024) Our New survey paper:[Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies](https://arxiv.org/abs/2401.12888) is available on ArXiV. It's now a heat paper on several academic platforms.
 
