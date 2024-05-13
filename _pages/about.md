@@ -25,10 +25,10 @@ Aside from that, I'm also a blogger in Bilibili.com, where I tend to record my d
 2024 Latest👍
 ======
 - (May/13/2024) Our new work leveraging Mamba, the latest deep learning-based selective state space model for Spatial-Temporal Graph Learning is now available.
-- 
-  \bold{Paper}: [STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model](https://github.com/LincanLi98/STG-Mamba/blob/main/STG_Mamba_paper_ArXiv_V3_14May2024.pdf)
+
+  **Paper**: [STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model](https://github.com/LincanLi98/STG-Mamba/blob/main/STG_Mamba_paper_ArXiv_V3_14May2024.pdf)
   
-  \bold{Code}: ⛷️ [https://github.com/LincanLi98/STG-Mamba/](https://github.com/LincanLi98/STG-Mamba/)
+  **Code**: ⛷️ [https://github.com/LincanLi98/STG-Mamba/](https://github.com/LincanLi98/STG-Mamba/)
   
 - (Jan/24/2024) Our New survey paper:[Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies](https://arxiv.org/abs/2401.12888) is available on ArXiV. It's now a heat paper on several academic platforms.
 
@@ -36,15 +36,17 @@ Aside from that, I'm also a blogger in Bilibili.com, where I tend to record my d
 
 Research Publications
 ======
-1. **Lincan Li**, Jichao Bi, Kaixiang Yang, and Fengji Luo. "Di-GraphGAN: An Enhanced Adversarial Learning
+1. **Lincan Li**, Hanchen Wang, Wenjie Zhang, Adelle Coster. "STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model". (Arxiv Preprint).
+2. **Lincan Li**, Jichao Bi, Kaixiang Yang, and Fengji Luo. "Di-GraphGAN: An Enhanced Adversarial Learning
 Framework for Accurate Spatial-Temporal Traffic Forecasting Under Data Missing Scenarios." Information Sciences, Accepted, pp. 1-18, 2024. (Journal Article, IF: 8.1, JCR Category Quartile: Q1)
-2. **Lincan Li**, Kaixiang Yang, Fengji Luo, and Jichao Bi. "STS-CCL: Spatial-Temporal Synchronous Contextual
+3. **Lincan Li**, Kaixiang Yang, Fengji Luo, and Jichao Bi. "STS-CCL: Spatial-Temporal Synchronous Contextual
 Contrastive Learning for Urban Traffic Forecasting." in the 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2024, CCF-B).
-3. **Lincan Li**, Jichao Bi, Kaixiang Yang, Fengji Luo and Lu-Xing Yang. "MGC-GAN: Multi-Graph Convolutional
+4. **Lincan Li**, Jichao Bi, Kaixiang Yang, Fengji Luo and Lu-Xing Yang. "MGC-GAN: Multi-Graph Convolutional
 Generative Adverserial Networks for Accurate Citywide Traffic Flow Prediction," in the 52nd IEEE International
 Conference on Systems, Man, and Cybernetics (SMC 2022), pp. 2557-2562. [Oral]
-4. **Lincan Li**, Jichao Bi, Kaixiang Yang, and Fengji Luo, "Spatial-Temporal Semantic Generative Adversarial Networks for Flexible Multi-step Urban Flow Prediction," in 31st International Conference on Artificial Neural Networks (ICANN 2022). Springer-Verlag, pp.763–775.
-5. **Lincan Li**, Tong Jia. "Optical Coherence Tomography Vulnerable Plaque Segmentation based on Deep Residual U-Net." Reviews in Cardiovascular Medicine 20.3 (2019): 171-177. (Journal Article, IF: 4.43, JCR Quartile: Q2)
+5. **Lincan Li**, Jichao Bi, Kaixiang Yang, and Fengji Luo, "Spatial-Temporal Semantic Generative Adversarial Networks for Flexible Multi-step Urban Flow Prediction," in 31st International Conference on Artificial Neural Networks (ICANN 2022). Springer-Verlag, pp.763–775.
+6. **Lincan Li**, Tong Jia. "Optical Coherence Tomography Vulnerable Plaque Segmentation based on Deep Residual U-Net." Reviews in Cardiovascular Medicine 20.3 (2019): 171-177. (Journal Article, IF: 4.43, JCR Quartile: Q2)
+
 
 Academic Awards & Competitions
 ------
