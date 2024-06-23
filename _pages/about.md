@@ -11,15 +11,16 @@ redirect_from:
 ======
 Hi everyone. I'm currently a PhD student at [Luojia-Spatial Computer Research Group](http://www.luojia-spatial.com/articles.html) led by Academician [Huayi Wu](http://www.lmars.whu.edu.cn/prof_web/why/index.html), School of [State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing(LIESMARS)](https://liesmars.whu.edu.cn/), The Wuhan University ([WHU](https://www.whu.edu.cn/)), starting at Sep 2022. And I am undergoing a two-year co-op at [Integrated Sustainability Analysis Laboratory](https://isa.org.usyd.edu.au/index.html), The University of Sydney ([USYD](https://www.sydney.edu.au/)), starting at Dec 2023. I feel very much fortunate to be advised by Prof. [Manfred Lenzen](https://scholar.google.de/citations?user=E_CfsPYAAAAJ&hl=de), Prof. [Longgang Xiang](http://jszy.whu.edu.cn/xianglonggang/zh_CN/index.htm), Prof. [Huayi Wu](http://www.lmars.whu.edu.cn/prof_web/why/index.html), and [Chao Wang](http://jszy.whu.edu.cn/wangchao/zh_CN/index.htm). My research interests include Spatial-Temporal Data Mining, Carbon emission, GIS models. In general, I'm always highly interested in Urban Sustainability Modeling and Analysis. 
 
-Before that, I obtained my Master Degree from Wuhan University, School of LIESMARS in June 2022. My Master's research was carried out in the [Geospatial Awareness and Intelligent Services] lead by Academician [Nengcheng Chen](https://grzy.cug.edu.cn/chennengcheng/). I was lucky to be supervised by Prof.[Chao Wang](http://jszy.whu.edu.cn/wangchao/zh_CN/index.htm)
+Before that, I obtained my Master Degree from Wuhan University, School of LIESMARS. My Master's research was carried out in the [Geospatial Awareness and Intelligent Services] lead by Academician [Nengcheng Chen](https://grzy.cug.edu.cn/chennengcheng/). I was lucky to be supervised by Prof.[Chao Wang](http://jszy.whu.edu.cn/wangchao/zh_CN/index.htm)
 
-You can find my google scholar here: [LincanLi](https://scholar.google.com/citations?user=2rsW8vgAAAAJ&hl=zh-CN)
+You can find my google scholar here: [Le Ma](https://scholar.google.com.sg/citations?user=wZIrwu4AAAAJ&hl=zh-CN&oi=sra)
 
-**Email**: lincan.li@unsw.edu.au; lilincan@zju.edu.cn  <br>
-**Education**: University of New South Wales (PhD at CSE)|Zhejiang University (MPhil at CSE)|Northesatern University (Bachelor at Automation)
-
-Aside from that, I'm also a blogger in Bilibili.com, where I tend to record my daily life in University as a research student, and share some experience about scientific research.
-
+**Email**: le.ma1@sydeny.edu.au; malele@whu.edu.cn  <br>
+**Education**: 
+2023.12-2025.12   University of Sydney (PhD at GIS)
+2022.09-2025.06   Wuhan University (PhD at GIS)
+2020.09-2022.06   Wuhan University (MPhil at GIS)
+2016.09-2020.06   China University of Geosciences, Wuhan (Bachelor at GIS)
 
 2024 Latest👍
 ======
