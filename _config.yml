@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "Sydney-Australia"
-title                    : "Lincan Li/Personal Website"
+title                    : "Le Ma/Personal Website"
 title_separator          : "-"
-name                     : &name "Lincan Li"
+name                     : &name "Le Ma"
 description              : &description "personal description"
-url                      : https://lincanli98.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lema98.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LincanLi98/LincanLi98.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "Lema98/Lema98.github.io"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "profile.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -64,7 +64,7 @@ facebook:
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
+# - 
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lincan Li (李林灿)"
+  name             : "Le Ma (马乐)"
   avatar           : "profile.png"
   bio              : "Simplicity and Focus."
   location         : "Sydney, Australia"
-  employer         : "PhD Student at UNSW"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=2rsW8vgAAAAJ&hl=zh-CN"
-  email            : "lincan.li@unsw.edu.au"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  employer         : "PhD Student at WHU and USYD"
+  PubMed           : " "
+  googlescholar    : "https://scholar.google.com.sg/citations?user=wZIrwu4AAAAJ&hl=zh-CN&oi=sra"
+  email            : "malele@whu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Le-Ma-21"
   uri              :
   bitbucket        :
   codepen          :
