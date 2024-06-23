@@ -17,10 +17,11 @@ You can find my google scholar here: [Le Ma](https://scholar.google.com.sg/citat
 
 **Email**: le.ma1@sydeny.edu.au; malele@whu.edu.cn  <br>
 **Education**: 
-2023.12-2025.12   University of Sydney (PhD at GIS)
-2022.09-2025.06   Wuhan University (PhD at GIS)
-2020.09-2022.06   Wuhan University (MPhil at GIS)
-2016.09-2020.06   China University of Geosciences, Wuhan (Bachelor at GIS)
+2023.12-2025.12   University of Sydney (PhD at GIS).
+
+2022.09-2025.06   Wuhan University (PhD at GIS).
+2020.09-2022.06   Wuhan University (MPhil at GIS).
+2016.09-2020.06   China University of Geosciences, Wuhan (Bachelor at GIS).
 
 2024 Latest👍
 ======
@@ -62,11 +63,7 @@ Academic Awards & Competitions
 
 Academic Services
 ------
-- I'm a long-term reviewer of AAAI/IJCAI/ACM MM/NeurlPS and other top CCF-A/CORE A* conferences in the
-field of artificial intelligence and deep learning. I'm a student member of ACM and IEEE Society.
-- Invited reviewer for IEEE Transactions on Knowledge and Data Engineering.
-- Invited reviewer for IEEE Transactions on Intelligent Vehicles.
-- Intivted reviewer for IEEE Transactions on Industrial Informatics.
+
 
 Academic Internship/Working Experiences at Top Institutions
 ------
