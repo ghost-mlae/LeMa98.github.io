@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Lincan Li's Personal Website"
+title: "Welcome to Le Ma's Personal Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,9 +10,9 @@ redirect_from:
 
 Short Bio
 ======
-Hi everyone. I'm currently a PhD student at [Data & Knowledge Research Group](https://unswdb.github.io/index.html), School of [CSE](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering), The University of New South Wales (UNSW) [UNSW](), starting at January 2024. I was awarded the highly competitive UIPA PhD scholarship (Presidential Scholarship) from UNSW. I feel very much fortunate to be advised by Prof. [Wenjie Zhang](https://scholar.google.com.au/citations?user=yHTJo1kAAAAJ&hl=en). My research interests include Spatial-Temporal Data Mining, Graph Neural Networks, AI+X, LLMs & Foundation Models. In general, I'm always highly interested in broad machine-learning fields, application of heterogeneous data mining, and AI+X technologies. 
+Hi everyone. I'm currently a PhD student at [Luojia-Spatial Computer Research Group](http://www.luojia-spatial.com/articles.html) led by Academician [Huayi Wu](http://www.lmars.whu.edu.cn/prof_web/why/index.html), School of [State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing(LIESMARS)](https://liesmars.whu.edu.cn/), The Wuhan University ([WHU](https://www.whu.edu.cn/)), starting at Sep 2022. And I am undergoing a two-year co-op at [Integrated Sustainability Analysis Laboratory](https://isa.org.usyd.edu.au/index.html), The University of Sydney [USYD](https://www.sydney.edu.au/), starting at Dec 2023. I feel very much fortunate to be advised by Prof. [Manfred Lenzen](https://scholar.google.de/citations?user=E_CfsPYAAAAJ&hl=de), Prof. [Longgang Xiang](http://jszy.whu.edu.cn/xianglonggang/zh_CN/index.htm), Prof. [Huayi Wu](http://www.lmars.whu.edu.cn/prof_web/why/index.html), and [Chao Wang]. My research interests include Spatial-Temporal Data Mining, Carbon emission, GIS models. In general, I'm always highly interested in Urban Sustainability Modeling and Analysis. 
 
-Before that, I obtained my Master Degree from Zhejiang University, School of CSE in June 2023. My Master research was carried out in the [State Key Lab. of Industrial Control Technology](http://nesc.zju.edu.cn/#/member/faculty) lead by Academician Youxian Sun. I was lucky to be supervised by Prof. [Shibo He](https://scholar.google.com/citations?user=5GOcb4gAAAAJ&hl=zh-CN) and co-supervised by Prof. [Jiming Chen](https://scholar.google.com/citations?user=zK9tvo8AAAAJ&hl=zh-CN) (Changjiang Scholars Chair Professor, IEEE Fellow, Vice President of Zhejiang University of Technology). 
+Before that, I obtained my Master Degree from Wuhan University, School of LIESMARS in June 2022. My Master's research was carried out in the [Geospatial Awareness and Intelligent Services] lead by Academician [Nengcheng Chen](https://grzy.cug.edu.cn/chennengcheng/). I was lucky to be supervised by Prof. [Chao Wang]
 
 You can find my google scholar here: [LincanLi](https://scholar.google.com/citations?user=2rsW8vgAAAAJ&hl=zh-CN)
 
