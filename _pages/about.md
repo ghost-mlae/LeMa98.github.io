@@ -28,41 +28,25 @@ You can find my google scholar here: [Le Ma](https://scholar.google.com.sg/citat
 
 2024 Latest👍
 ======
-- (May/13/2024) Our new work leveraging Mamba, the latest deep learning-based selective state space model for Spatial-Temporal Graph Learning is now available.
+- (May/13/2024) Our new work .
 
-  **Paper**: [STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model](https://github.com/LincanLi98/STG-Mamba/blob/main/STG_Mamba_paper_ArXiv_V3_14May2024.pdf)
+  **Paper**: [carbon]()
   
-  **Code**: ⛷️ [https://github.com/LincanLi98/STG-Mamba/](https://github.com/LincanLi98/STG-Mamba/)
+
   
-- (Jan/24/2024) Our New survey paper:[Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies](https://arxiv.org/abs/2401.12888) is available on ArXiV. It's now a heat paper on several academic platforms.
+- (Jan/24/2024) Our New survey paper:[) is available on ArXiV. It's now a heat paper on several academic platforms.
 
 
 
 Research Publications
 ======
-1. **Lincan Li**, Hanchen Wang, Wenjie Zhang, Adelle Coster. "STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model". (Arxiv Preprint).
-2. **Lincan Li**, Jichao Bi, Kaixiang Yang, and Fengji Luo. "Di-GraphGAN: An Enhanced Adversarial Learning
-Framework for Accurate Spatial-Temporal Traffic Forecasting Under Data Missing Scenarios." Information Sciences, Accepted, pp. 1-18, 2024. (Journal Article, IF: 8.1, JCR Category Quartile: Q1)
-3. **Lincan Li**, Kaixiang Yang, Fengji Luo, and Jichao Bi. "STS-CCL: Spatial-Temporal Synchronous Contextual
-Contrastive Learning for Urban Traffic Forecasting." in the 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2024, CCF-B).
-4. **Lincan Li**, Jichao Bi, Kaixiang Yang, Fengji Luo and Lu-Xing Yang. "MGC-GAN: Multi-Graph Convolutional
-Generative Adverserial Networks for Accurate Citywide Traffic Flow Prediction," in the 52nd IEEE International
-Conference on Systems, Man, and Cybernetics (SMC 2022), pp. 2557-2562. [Oral]
-5. **Lincan Li**, Jichao Bi, Kaixiang Yang, and Fengji Luo, "Spatial-Temporal Semantic Generative Adversarial Networks for Flexible Multi-step Urban Flow Prediction," in 31st International Conference on Artificial Neural Networks (ICANN 2022). Springer-Verlag, pp.763–775.
-6. **Lincan Li**, Tong Jia. "Optical Coherence Tomography Vulnerable Plaque Segmentation based on Deep Residual U-Net." Reviews in Cardiovascular Medicine 20.3 (2019): 171-177. (Journal Article, IF: 4.43, JCR Quartile: Q2)
+1. **Le Ma**, Tong Jia. "."  (2024): 171-177. (Journal Article, IF: 4.43, JCR Quartile: Q1)
+6. **
 
 
 Academic Awards & Competitions
 ------
-1. Master Thesis of Zhejiang University, "Research on Integrated Urban Traffic Forecasting and Spatiotemporal Data Imputation based on GANs and Graph Representation". **Excellent Master Dissertation Award** (Top 1%).
-2. National Scholarship for Postgraduate. Awarded by Ministry of Education in China, Awarded in December, 2022.
-3. National Scholarship for Undergraduare Student. Awarded by Ministry of Education in China, Awarded in December, 2019.
-4. National Scholarship for Undergraduare Student. Awarded by Ministry of Education in China, Awarded in December, 2018.
-5. Meritorious Winner (First Prize) of the International Interdisciplinary Contest In Mathematical Modeling (ICM). Awarded in April, 2018.
-6. Second Prize of the National College Contest in Big Data Analysis and Mining, Awarded by: Chinese Institute of Electronics, Awarded in December, 2020.
-7. Outstanding Master Graduates of Zhejiang Province, Awarded in 2023.
-8. Outstanding University Graduates of Liaoning Province, Awarded in 2020.
-9. Northeastern University Presidential Scholarship, Awarded in 2019.
+1. 
 
 Academic Services
 ------
